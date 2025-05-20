@@ -2,17 +2,17 @@
 [
   {
     "id": 1,
-    "name": "Web Development",
+    "name": " 👨‍💻 Web Development",
     "description": "Build modern and responsive web apps."
   },
   {
     "id": 2,
-    "name": "UI/UX Design",
+    "name": " 🗺️ UI/UX Design",
     "description": "Create user-friendly and engaging designs."
   },
   {
     "id": 3,
-    "name": "API Integration",
+    "name": " 🛗 API Integration",
     "description": "Connect services and systems using APIs."
   }
 ]
